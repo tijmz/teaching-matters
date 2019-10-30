@@ -22,22 +22,29 @@ In case of repeat offense, the Examinations Board may decide on sanctions typica
 
 # How do I choose the category of the suspected plagiarism?
 
-You can determine those by first determining a type of plagiarism from the table below and then inspecting its corresponding rubric.
+You can determine the category of suspected plagiarism through three steps:
+
+1. Selecting the type of suspected plagiarism.
+2. In the corresponding type rubric, find the description most similar to your case.
+3. Read off from the rubric which category applies.
+
+Once you have done this, you can submit the case to the Examinations Board.
 
 ## Select a type
 |Type number|Description|
 |:----|:-----:|
 | Type 1 |making use of or reproducing another person’s texts, data or ideas without complete and correct acknowledgement of the sources|
 | Type 2 | presenting the structure or central body of ideas taken from third-party sources as one’s own work or ideas, even if a reference to other authors is included|
-| Type 3| failing to clearly indicate in the text – for instance by means of quotation marks or a particular layout – that literal or near-literal quotations have been included in the work, even if a correct reference to the sources has been included; |
-| Type 4 |  paraphrasing the contents of another person’s texts without sufficient reference to the sources|
-| Type 5	| reproducing another person’s audio, visual or test materials, or software or program codes without reference to the sources, and in doing so passing these off as one’s own work |
+| Type 3|  paraphrasing the contents of another person’s texts without sufficient reference to the sources|
+| Type 4	| reproducing another person’s audio, visual or test materials, or software or program codes without reference to the sources, and in doing so passing these off as one’s own work |
+| Type 5	|reproducing the work of fellow students and passing it off as one’s own    | 
 | Type 6	| submitting a text that has previously been submitted, or is similar to a text that has previously been submitted, in the context of assignments for other courses|
-| Type 7	|reproducing the work of fellow students and passing it off as one’s own                                                  | Type 8 | submitting papers obtained from a commercial agency or written (whether or not for payment) by another person.                                                                  | 
+| Type 7 | submitting papers obtained from a commercial agency or written (whether or not for payment) by another person.     | 
 
-## Check the corresponding rubric
+## Check the corresponding type rubric
 
 ### Type 1
+*Making use of or reproducing another person’s texts, data or ideas without complete and correct acknowledgement of the sources*
 
 |Name|Description|In case of draft version|In case of final version|
 |:----|:-----:|:-----|:------|
@@ -48,15 +55,16 @@ You can determine those by first determining a type of plagiarism from the table
 | Type 1.5  |                                                                         Most or all of the work has been taken from another source or sources, without citation.                                                                        |     Very serious offense     |     Very serious offense     |
 
 ### Type 2
+*Presenting the structure or central body of ideas taken from third-party sources as one’s own work or ideas, even if a reference to other authors is included*
 
 |Name|Description|In case of draft version|In case of final version|
 |:----|:-----:|:-----|:------|
 | Type 2.1 |               The argumentative structure is original, but the core message or conclusion is very similar to work of another party, without proper citation               |  Poor academic practice  |      Serious offense     |
-| Type 2.3 | The argumentative structure is original, but the core message or conclusion is very similar to work of another party, but presented as an original idea without citation. |      Serious offense     |   Very serious offense   |
-| Type 2.5 |             Argumentative structure, core message and conclusion are very similar to work of another party, but presented as an original idea without citation            |   Very serious offense   |   Very serious offense   |
+| Type 2.2 | The argumentative structure is original, but the core message or conclusion is very similar to work of another party, but presented as an original idea without citation. |      Serious offense     |   Very serious offense   |
+| Type 2.3 |             Argumentative structure, core message and conclusion are very similar to work of another party, but presented as an original idea without citation            |   Very serious offense   |   Very serious offense   |
 
 ### Type 3
-
+*Paraphrasing the contents of another person’s texts without sufficient reference to the sources*
 |Name|Description|In case of draft version|In case of final version|
 |:----|:-----:|:-----|:------|
 | Type 3.1 |             Citations are always present, but often incorrect. The most important part of the assignment has proper citations.             |  Acceptable negligence |  Poor academic practice  |
@@ -66,11 +74,37 @@ You can determine those by first determining a type of plagiarism from the table
 | Type 3.5 |                 Citations are lacking overall, the use of sources is unclear. Student may not have provided original input.                |  Very serious offense  |   Very serious offense   |
 
 ### Type 4
+Reproducing another person’s audio, visual or test materials, or software or program codes without reference to the sources, and in doing so passing these off as one’s own work*
+
+|Name|Description|In case of draft version|In case of final version|
+|:----|:-----:|:-----|:------|
+| Type 4.1 |The student did not properly source some of the materials that were used, but this was only the case for materials that did not concern the core of the assignment             |  Acceptable negligence |  Poor academic practice  |
+| Type 4.2 |The student did not source some of the materials that were used at all, but this was only the case for materials that did not concern the core of the assignment  | Poor academic practice |      Poor academic practice    |
+| Type 4.3 | The student did not properly source some of the materials that were used, including materials that concerned the core of the assignment     |     Serious offense    |   Very serious offense   |
+| Type 4.4 | The student did not source some of the materials that were used at all, including materials that concerned the core of the assignment    |     Serious offense    |   Very serious offense   |
+| Type 4.5 | The student created the appearance of original work, affecting the core of the assignment|  Very serious offense  |   Very serious offense   |
 
 ### Type 5
+*Reproducing the work of fellow students and passing it off as one’s own*
+
+This is always a very serious offense.
 
 ### Type 6
+*Submitting a text that has previously been submitted, or is similar to a text that has previously been submitted, in the context of assignments for other courses*
+
+This is always a serious offense.
+
 
 ### Type 7
+*Submitting papers obtained from a commercial agency or written (whether or not for payment) by another person.*
 
-### Type 8
+This is always a serious offense.
+
+## Submitting a case to the Examinations Board
+Please contact the Examinations Board of *Brain and Cognitive Sciences* and submit the following
+
+* Your name
+* The name, UvA ID and email address of the respective students
+* The name of the course
+* Relevant documents, such as the description of the assignment, the submitted work, a Turnitin Report or your own description of the plagiarism
+* The category of suspected plagiarism (as determined using the steps above)
