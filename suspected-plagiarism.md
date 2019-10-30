@@ -22,17 +22,17 @@ In case of repeat offense, the Examinations Board may decide on sanctions typica
 
 # How do I choose the category of the suspected plagiarism?
 
-You can determine the category of suspected plagiarism through three steps:
+You can determine the category of suspected plagiarism through the following three steps:
 
-1. Selecting the type of suspected plagiarism.
-2. In the corresponding type rubric, find the description most similar to your case.
-3. Read off from the rubric which category applies.
+1. Select the type of suspected plagiarism using the below table.
+2. Look up the corresponding type rubric and find the description most similar to your case.
+3. Use the rubric to determine which category applies.
 
-Once you have done this, you can submit the case to the Examinations Board.
+Once you have done this, you can [submit the case to the Examinations Board](#Submitting-a-case-to-the-Examinations-Board).
 
 ## Select a type
 |Type number|Description|
-|:----|:-----:|
+|:----|:-----|
 | Type 1 |making use of or reproducing another person’s texts, data or ideas without complete and correct acknowledgement of the sources|
 | Type 2 | presenting the structure or central body of ideas taken from third-party sources as one’s own work or ideas, even if a reference to other authors is included|
 | Type 3|  paraphrasing the contents of another person’s texts without sufficient reference to the sources|
@@ -59,22 +59,23 @@ Once you have done this, you can submit the case to the Examinations Board.
 
 |Name|Description|In case of draft version|In case of final version|
 |:----|:-----:|:-----|:------|
-| Type 2.1 |               The argumentative structure is original, but the core message or conclusion is very similar to work of another party, without proper citation               |  Poor academic practice  |      Serious offense     |
+| Type 2.1 |     The argumentative structure is original, but the core message or conclusion is very similar to work of another party, without proper citation               |  Poor academic practice  |      Serious offense     |
 | Type 2.2 | The argumentative structure is original, but the core message or conclusion is very similar to work of another party, but presented as an original idea without citation. |      Serious offense     |   Very serious offense   |
 | Type 2.3 |             Argumentative structure, core message and conclusion are very similar to work of another party, but presented as an original idea without citation            |   Very serious offense   |   Very serious offense   |
 
 ### Type 3
 *Paraphrasing the contents of another person’s texts without sufficient reference to the sources*
+
 |Name|Description|In case of draft version|In case of final version|
 |:----|:-----:|:-----|:------|
-| Type 3.1 |             Citations are always present, but often incorrect. The most important part of the assignment has proper citations.             |  Acceptable negligence |  Poor academic practice  |
-| Type 3.2 |                      Citations are not always present. The most important part of the assignment has proper citations.                     | Poor academic practice |      Serious offense     |
-| Type 3.3 | Citations are present througout the text, but are omitted or incorrect in elements that make up the most important part of the assignment. |     Serious offense    |   Very serious offense   |
-| Type 3.4 |           Citations are lacking overall, the use of sources is unclear. It is apparent that the studnet provided original input.           |     Serious offense    |   Very serious offense   |
-| Type 3.5 |                 Citations are lacking overall, the use of sources is unclear. Student may not have provided original input.                |  Very serious offense  |   Very serious offense   |
+| Type 3.1 | Citations are always present, but often incorrect. The most important part of the assignment has proper citations.|  Acceptable negligence |  Poor academic practice  |
+| Type 3.2 |Citations are not always present. The most important part of the assignment has proper citations.                     | Poor academic practice | Serious offense|
+| Type 3.3 | Citations are present througout the text, but are omitted or incorrect in elements that make up the most important part of the assignment. | Serious offense |  Very serious offense   |
+| Type 3.4 |Citations are lacking overall, the use of sources is unclear. It is apparent that the student provided original input. |     Serious offense    |   Very serious offense   |
+| Type 3.5 |Citations are lacking overall, the use of sources is unclear. Student may not have provided original input.            |  Very serious offense  |   Very serious offense   |
 
 ### Type 4
-Reproducing another person’s audio, visual or test materials, or software or program codes without reference to the sources, and in doing so passing these off as one’s own work*
+*Reproducing another person’s audio, visual or test materials, or software or program codes without reference to the sources, and in doing so passing these off as one’s own work*
 
 |Name|Description|In case of draft version|In case of final version|
 |:----|:-----:|:-----|:------|
