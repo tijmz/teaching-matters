@@ -102,7 +102,7 @@ This is always a serious offense.
 This is always a serious offense.
 
 ## Submitting a case to the Examinations Board
-Please contact the Examinations Board of *Brain and Cognitive Sciences* and submit the following
+Please contact the Examinations Board of *Brain and Cognitive Sciences* [via this link](https://uvasocialsciences.qualtrics.com/SE/?SID=SV_2gziTBzCLVDMWfr) and submit the following
 
 * Your name
 * The name, UvA ID and email address of the respective students
